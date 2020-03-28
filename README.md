@@ -1,5 +1,6 @@
 # @khashi/tiny
 
+[![npm](https://img.shields.io/npm/v/@khashi/tiny?color=blue&label=npm%20)](https://www.npmjs.com/package/@khashi/tiny)
 [![NPM](https://img.shields.io/npm/l/@khashi/tiny?color=blue)](https://www.npmjs.com/package/@khashi/tiny)
 
 
