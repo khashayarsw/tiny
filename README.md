@@ -1,6 +1,6 @@
 # @khashi/tiny
 
-[![npm](https://img.shields.io/npm/v/@khashi/tiny)](https://www.npmjs.com/package/@khashi/tiny)
+[![NPM](https://img.shields.io/npm/l/@khashi/tiny?color=blue)](https://www.npmjs.com/package/@khashi/tiny)
 
 
 Removes all spaces from a string.
@@ -24,3 +24,6 @@ tiny(1337);
 //    at tiny (<anonymous>:2:41)
 //    at <anonymous>:1:1
 ```
+## License
+
+@khashi/tiny is released under the terms of the MIT License.

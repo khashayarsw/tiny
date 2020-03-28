@@ -1,4 +1,1 @@
-module.exports = function tiny(string) {
-  if (typeof string !== "string") throw new TypeError("Tiny wants a string!");
-  return string.replace(/\s/g, "");
-};
+module.exports=function(r){if("string"!=typeof r)throw new TypeError("Tiny wants a string!");return r.replace(/\s/g,"")};
